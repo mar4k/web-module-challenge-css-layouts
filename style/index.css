@@ -1,1 +1,40 @@
 /* Add CSS styling here */
+
+.header{
+    text-align: center;
+    background-color: red;
+}
+
+.intro{
+    text-align:center;
+}
+
+#title {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.navi {
+    display:flex;
+    justify-content: flex-end;
+}
+
+footer {
+    text-align:center;
+}
+
+#cyber {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#lorem {
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.footer{
+    background-color: red;
+    box-sizing:10% 100%;
+}
